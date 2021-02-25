@@ -3,13 +3,13 @@
 
 ## Process
 <p align="center">
-  <img src="http://thanos.jiggum.s3.amazonaws.com/assets/process.png">
+  <img src="https://s3.ap-northeast-2.amazonaws.com/thanos.jiggum/assets/process.png">
   Instance Segmentation & Generative Inpainting
 </p>
 
 ## Example Cases
 <p align="center">
-  <img src="http://thanos.jiggum.s3.amazonaws.com/assets/results.png">
+  <img src="https://s3.ap-northeast-2.amazonaws.com/thanos.jiggum/assets/results.png">
 </p>
 
 ## Before you start
